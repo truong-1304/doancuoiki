@@ -15,7 +15,7 @@
 	<atom:link href="https://truong-1304.github.io/doancuoiki/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truong-1304.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 12:35:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jul 2023 06:45:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,42 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Pineapple</title>
+		<link>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep/</link>
+					<comments>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2023 02:14:48 +0000</pubDate>
+				<guid isPermaLink="false">https://truong-1304.github.io/doancuoiki/?post_type=product#038;p=850</guid>
+
+					<description><![CDATA[Praesent ornare, ex a interdum consectetur, lectus diam sodales elit…]]></description>
+										<content:encoded><![CDATA[<p>Praesent ornare, ex a interdum consectetur, lectus diam sodales elit, vitae egestas est enim ornare nisl. Nullam in lectus nec sem semper viverra. In lobortis egestas massa. Nam nec massa nisi. Suspendisse potenti. Quisque suscipit vulputate dui quis volutpat. Ut id elit facilisis, feugiat est in, tempus lacus. Ut ultrices dictum metus, a ultricies ex vulputate ac. Ut id cursus tellus, non tempor quam. Morbi porta diam nisi, id finibus nunc tincidunt eu.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pineapple (Sao chép)</title>
+		<link>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep-2/</link>
+					<comments>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2023 02:14:47 +0000</pubDate>
+				<guid isPermaLink="false">https://truong-1304.github.io/doancuoiki/?post_type=product#038;p=847</guid>
+
+					<description><![CDATA[Praesent ornare, ex a interdum consectetur, lectus diam sodales elit…]]></description>
+										<content:encoded><![CDATA[<p>Praesent ornare, ex a interdum consectetur, lectus diam sodales elit, vitae egestas est enim ornare nisl. Nullam in lectus nec sem semper viverra. In lobortis egestas massa. Nam nec massa nisi. Suspendisse potenti. Quisque suscipit vulputate dui quis volutpat. Ut id elit facilisis, feugiat est in, tempus lacus. Ut ultrices dictum metus, a ultricies ex vulputate ac. Ut id cursus tellus, non tempor quam. Morbi porta diam nisi, id finibus nunc tincidunt eu.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-sao-chep-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Pineapple</title>
 		<link>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-2/</link>
 					<comments>https://truong-1304.github.io/doancuoiki/san-pham/pineapple-2/#respond</comments>

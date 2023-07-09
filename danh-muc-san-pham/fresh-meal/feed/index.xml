@@ -15,7 +15,7 @@
 	<atom:link href="https://truong-1304.github.io/doancuoiki/danh-muc-san-pham/fresh-meal/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truong-1304.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 12:29:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jul 2023 06:45:26 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Avocado Fruit</title>
+		<link>https://truong-1304.github.io/doancuoiki/san-pham/avocado-fruit-sao-chep/</link>
+					<comments>https://truong-1304.github.io/doancuoiki/san-pham/avocado-fruit-sao-chep/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2023 02:15:48 +0000</pubDate>
+				<guid isPermaLink="false">https://truong-1304.github.io/doancuoiki/?post_type=product#038;p=856</guid>
+
+					<description><![CDATA[Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+<p>Pellentesque ut porttitor enim. Sed ac dolor porta, fringilla velit vel, dapibus quam. Maecenas tempus auctor cursus. Sed imperdiet eros quis congue ullamcorper. Mauris ultrices lorem justo, et vulputate lorem cursus eu. Phasellus aliquam dapibus tincidunt. Ut ac molestie libero. Phasellus in volutpat neque. Morbi semper libero vitae risus aliquam ultricies. Nulla facilisi. Nullam congue euismod mattis. Phasellus a erat sed massa tristique facilisis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://truong-1304.github.io/doancuoiki/san-pham/avocado-fruit-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Organic Veggie Mix</title>
 		<link>https://truong-1304.github.io/doancuoiki/san-pham/organic-veggie-mix-3/</link>
 					<comments>https://truong-1304.github.io/doancuoiki/san-pham/organic-veggie-mix-3/#respond</comments>
